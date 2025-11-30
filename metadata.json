@@ -1,0 +1,5 @@
+{
+  "name": "LUTS/BPH Clinical Risk Explorer",
+  "description": "An educational clinical risk stratification tool for Lower Urinary Tract Symptoms (LUTS) and Benign Prostatic Hyperplasia (BPH). Designed for adult patients and clinicians to estimate progression, retention, and surgical risks.",
+  "requestFramePermissions": []
+}
